@@ -6,8 +6,14 @@ This is based on https://testdriven.io/blog/fastapi-react/
 
 ## Frontend
 
-React
+```
+cd frontend
+npm start
+```
 
 ## Backend
 
-FastAPI
+```
+cd backend
+python main.py
+```
